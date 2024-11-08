@@ -1,0 +1,10 @@
+kashdgfcajklakgcçwhl~jwkashdgfcajklakgcçwhl~jwkashdgfcajklakgcçwhl~jw kashdgfcajklakgcçwhl~jw
+
+
+with zipfile.ZipFile(zip_file_name, 'w', zipfile.ZIP_DEFLATED) as zipf:
+zipf.write(file, os.path.basename(file))
+
+dsakndas
+dsoduhfoaigsdfgeahsdkfhvsefdlkjçalfewghklnlkcvxmçls,~dç dasdausdgapodj                daosjdjhadsj
+Quantidade de caracteres: 332
+Quantidade de palavras: 14
