@@ -7,18 +7,27 @@ app = FastAPI()
 
 
 class Item(BaseModel):
-    nome : str
-    valor : float
-    is_oferta : Union[bool,None] = None
+    nome: str
+    valor: float
+    is_oferta: Union[bool, None] = None
+
+# Dicionário para armazenar itens
+items_db = {}
 
 @app.get("/")
-async def read_root():
-    return {"msg" : "Hello World"}
+def read_root():
+    return {"msg": "Hello World"}
 
-@app.get("/items/{item_id}")
-def read_item(item_id: int, nome: Union[str,None] = None):
-    return {"item_id": item_id, "nome" : nome}
+@app.get("/itens/{item_id}")
+def le_item(item_id: int):
+    # Verifica se o item existe no dicionário
+    if item_id in items_db:
+        return items_db[item_id]
+    else:
+        return {"erro": "Item não encontrado"}
 
 @app.put("/itens/{item_id}")
 def atualiza_item(item_id: int, item: Item):
-    return {"item_nome": item.nome, "item_id": item_id}
+    # Salva o item no dicionário
+    items_db[item_id] = item
+    return {"mensagem": "Item atualizado com sucesso", "item": items_db[item_id]}

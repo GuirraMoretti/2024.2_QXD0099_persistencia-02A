@@ -1,0 +1,1210 @@
+<!DOCTYPE HTML>
+<html>
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Universidade Federal do Ceará – Campus Quixadá
+  </title>
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,300,700" rel="stylesheet" type="text/css"/>
+  <link href="https://www.quixada.ufc.br/wp-content/themes/ufc-quixada/css/bootstrap.css" rel="stylesheet"/>
+  <link href="https://www.quixada.ufc.br/wp-content/themes/ufc-quixada/style.css" rel="stylesheet"/>
+  <link href="https://www.quixada.ufc.br/wp-content/themes/ufc-quixada/favicon.ico" rel="shortcut icon">
+   <meta content="max-image-preview:large" name="robots">
+    <script type="text/javascript">
+     /* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.quixada.ufc.br\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.6.2"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\u2b1b","\ud83d\udc26\u200b\u2b1b")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+    </script>
+    <link href="https://www.quixada.ufc.br/wp-content/plugins/print-post-and-page/css/font-awesome.min.css?ver=6.6.2" id="h5ab-print-font-awesome-css" media="all" rel="stylesheet" type="text/css">
+     <link href="https://www.quixada.ufc.br/wp-content/plugins/print-post-and-page/css/h5ab-print.min.css?ver=6.6.2" id="h5ab-print-css-css" media="all" rel="stylesheet" type="text/css">
+      <style id="wp-emoji-styles-inline-css" type="text/css">
+       img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+      </style>
+      <link href="https://www.quixada.ufc.br/wp-includes/css/dist/block-library/style.min.css?ver=6.6.2" id="wp-block-library-css" media="all" rel="stylesheet" type="text/css"/>
+      <style id="classic-theme-styles-inline-css" type="text/css">
+       /*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+      </style>
+      <style id="global-styles-inline-css" type="text/css">
+       :root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+      </style>
+      <link href="https://www.quixada.ufc.br/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.0" id="contact-form-7-css" media="all" rel="stylesheet" type="text/css"/>
+      <link href="https://www.quixada.ufc.br/wp-content/plugins/wp-responsive-menu/assets/css/wpr-hamburger.css?ver=3.1.8" id="hamburger.css-css" media="all" rel="stylesheet" type="text/css"/>
+      <link href="https://www.quixada.ufc.br/wp-content/plugins/wp-responsive-menu/assets/css/wprmenu.css?ver=3.1.8" id="wprmenu.css-css" media="all" rel="stylesheet" type="text/css"/>
+      <style id="wprmenu.css-inline-css" type="text/css">
+       @media only screen and ( max-width: 768px ) {html body div.wprm-wrapper {overflow: scroll;}#wprmenu_bar {background-image: url();background-size:;background-repeat: ;}#wprmenu_bar {background-color: #878786;}html body div#mg-wprm-wrap .wpr_submit .icon.icon-search {color: ;}#wprmenu_bar .menu_title,#wprmenu_bar .wprmenu_icon_menu,#wprmenu_bar .menu_title a {color: #F2F2F2;}#wprmenu_bar .menu_title a {font-size: px;font-weight: ;}#mg-wprm-wrap li.menu-item a {font-size: px;text-transform: ;font-weight: ;}#mg-wprm-wrap li.menu-item-has-children ul.sub-menu a {font-size: px;text-transform: ;font-weight: ;}#mg-wprm-wrap li.current-menu-item > a {background: ;}#mg-wprm-wrap li.current-menu-item > a,#mg-wprm-wrap li.current-menu-item span.wprmenu_icon{color:!important;}#mg-wprm-wrap {background-color: #2E2E2E;}.cbp-spmenu-push-toright,.cbp-spmenu-push-toright .mm-slideout {left: 80% ;}.cbp-spmenu-push-toleft {left: -80% ;}#mg-wprm-wrap.cbp-spmenu-right,#mg-wprm-wrap.cbp-spmenu-left,#mg-wprm-wrap.cbp-spmenu-right.custom,#mg-wprm-wrap.cbp-spmenu-left.custom,.cbp-spmenu-vertical {width: 80%;max-width: px;}#mg-wprm-wrap ul#wprmenu_menu_ul li.menu-item a,div#mg-wprm-wrap ul li span.wprmenu_icon {color: #CFCFCF;}#mg-wprm-wrap ul#wprmenu_menu_ul li.menu-item:valid ~ a{color: ;}#mg-wprm-wrap ul#wprmenu_menu_ul li.menu-item a:hover {background: ;color: #606060 !important;}div#mg-wprm-wrap ul>li:hover>span.wprmenu_icon {color: #606060 !important;}.wprmenu_bar .hamburger-inner,.wprmenu_bar .hamburger-inner::before,.wprmenu_bar .hamburger-inner::after {background: #FFFFFF;}.wprmenu_bar .hamburger:hover .hamburger-inner,.wprmenu_bar .hamburger:hover .hamburger-inner::before,.wprmenu_bar .hamburger:hover .hamburger-inner::after {background: ;}div.wprmenu_bar div.hamburger{padding-right: 6px !important;}#wprmenu_menu.left {width:80%;left: -80%;right: auto;}#wprmenu_menu.right {width:80%;right: -80%;left: auto;}.wprmenu_bar .hamburger {float: left;}.wprmenu_bar #custom_menu_icon.hamburger {top: px;left: px;float: left !important;background-color: ;}#menu,#slider,.menu-menu-principal-container{ display: none !important; }.wpr_custom_menu #custom_menu_icon {display: block;}html { padding-top: 42px !important; }#wprmenu_bar,#mg-wprm-wrap { display: block; }div#wpadminbar { position: fixed; }}
+      </style>
+      <link href="https://www.quixada.ufc.br/wp-content/plugins/wp-responsive-menu/inc/assets/icons/wpr-icons.css?ver=3.1.8" id="wpr_icons-css" media="all" rel="stylesheet" type="text/css"/>
+      <link href="https://www.quixada.ufc.br/wp-content/tablepress-combined.min.css?ver=61" id="tablepress-default-css" media="all" rel="stylesheet" type="text/css"/>
+      <script id="jquery-core-js" src="https://www.quixada.ufc.br/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" type="text/javascript">
+      </script>
+      <script id="jquery-migrate-js" src="https://www.quixada.ufc.br/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" type="text/javascript">
+      </script>
+      <script id="html5-responsive-faq-js" src="https://www.quixada.ufc.br/wp-content/plugins/html5-responsive-faq/js/hrf-script.js?ver=6.6.2" type="text/javascript">
+      </script>
+      <script id="modernizr-js" src="https://www.quixada.ufc.br/wp-content/plugins/wp-responsive-menu/assets/js/modernizr.custom.js?ver=3.1.8" type="text/javascript">
+      </script>
+      <script id="touchSwipe-js" src="https://www.quixada.ufc.br/wp-content/plugins/wp-responsive-menu/assets/js/touchSwipe.js?ver=3.1.8" type="text/javascript">
+      </script>
+      <script id="wprmenu.js-js-extra" type="text/javascript">
+       /* <![CDATA[ */
+var wprmenu = {"zooming":"yes","from_width":"768","push_width":"","menu_width":"80","parent_click":"","swipe":"no","enable_overlay":"","wprmenuDemoId":""};
+/* ]]> */
+      </script>
+      <script id="wprmenu.js-js" src="https://www.quixada.ufc.br/wp-content/plugins/wp-responsive-menu/assets/js/wprmenu.js?ver=3.1.8" type="text/javascript">
+      </script>
+      <link href="https://www.quixada.ufc.br/wp-json/" rel="https://api.w.org/"/>
+      <link href="https://www.quixada.ufc.br/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+      <meta content="WordPress 6.6.2" name="generator"/>
+      <!-- HFCM by 99 Robots - Snippet # 1: Hotjar Tracking Code -->
+      <!-- Hotjar Tracking Code for https://www.quixada.ufc.br/ -->
+      <script>
+       (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:2777477,hjsv:6};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+      </script>
+      <!-- /end HFCM by 99 Robots -->
+      <!-- HFCM by 99 Robots - Snippet # 2: Smartlook Tracking Code -->
+      <!-- Smartlook Tracking Code for https://www.quixada.ufc.br/ -->
+      <script type="text/javascript">
+       window.smartlook||(function(d) {
+    var o=smartlook=function(){ o.api.push(arguments)},h=d.getElementsByTagName('head')[0];
+    var c=d.createElement('script');o.api=new Array();c.async=true;c.type='text/javascript';
+    c.charset='utf-8';c.src='https://rec.smartlook.com/recorder.js';h.appendChild(c);
+    })(document);
+    smartlook('init', '34a5e90a875c3363caac451130a8c84a7edfc62f');
+      </script>
+      <!-- /end HFCM by 99 Robots -->
+      <style id="wp-custom-css" type="text/css">
+       #radio {
+	display:none;
+}
+      </style>
+     </link>
+    </link>
+   </meta>
+  </link>
+ </head>
+ <body>
+  <!-- BARRA GOVERNO FEDERAL -->
+  <div id="barra-brasil" style="background:#7F7F7F; height: 20px; padding:0 0 0 10px;display:block;">
+   <ul id="menu-barra-temp" style="list-style:none;">
+    <li style="display:inline; float:left;padding-right:10px; margin-right:10px; border-right:1px solid #EDEDED">
+     <a href="http://brasil.gov.br" style="font-family:sans,sans-serif; text-decoration:none; color:white;">
+      Portal do Governo Brasileiro
+     </a>
+    </li>
+    <li>
+     <a href="http://epwg.governoeletronico.gov.br/barra/atualize.html" style="font-family:sans,sans-serif; text-decoration:none; color:white;">
+      Atualize sua Barra de Governo
+     </a>
+    </li>
+   </ul>
+  </div>
+  <!-- FIM BARRA GOVERNO FEDERAL -->
+  <div class="container">
+   <header>
+    <div class="col-md-3" id="logo">
+     <a href="https://www.quixada.ufc.br">
+      <img alt="UFC - Campus Quixadá" src="https://www.quixada.ufc.br/wp-content/uploads/2017/10/logo.png" style="margin-top:-10px" width="210"/>
+     </a>
+    </div>
+    <div class="col-md-9" id="topo">
+     <div id="busca">
+      <form action="https://www.quixada.ufc.br" class="form-inline" id="search" method="get" role="search">
+       <input class="form-control" id="s" name="s" placeholder="Procurando por algo?" type="text"/>
+       <input class="btn btn-info" id="searchsubmit" type="submit" value="Buscar"/>
+      </form>
+     </div>
+     <span style="float:right">
+      <a href="https://www.facebook.com/campusufcquixada" target="_blank">
+       <img src="https://www.quixada.ufc.br/wp-content/uploads/2016/06/fb-ufc.png"/>
+      </a>
+      <a href="https://twitter.com/ufcquixada" target="_blank">
+       <img src="https://www.quixada.ufc.br/wp-content/uploads/2016/06/twitter-ufc.png"/>
+      </a>
+      <a href="https://www.instagram.com/ufcquixada/" target="_blank">
+       <img src="https://www.quixada.ufc.br/wp-content/uploads/2017/08/instagram-ufc.png"/>
+      </a>
+      <a href="http://bit.ly/videoufcquixada" target="_blank">
+       <img src="https://www.quixada.ufc.br/wp-content/uploads/2018/12/youtube-icon.png" width="22"/>
+      </a>
+     </span>
+     <nav>
+      <div class="menu-menu-principal-container">
+       <ul class="menu" id="menu-menu-principal">
+        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12978" id="menu-item-12978">
+         <a href="https://www.ufc.br/calendario-universitario/2024-ajuste-pos-greve">
+          Calendário Universitário
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-70" id="menu-item-70">
+         <a href="https://www.quixada.ufc.br/fale-conosco/">
+          Fale Conosco
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8703" id="menu-item-8703">
+         <a href="https://www.quixada.ufc.br/ouvidoria-da-ufc/">
+          Ouvidoria
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12908" id="menu-item-12908">
+         <a href="https://sistemas.quixada.ufc.br/">
+          Sistemas
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14939" id="menu-item-14939">
+         <a href="https://academico.quixada.ufc.br/">
+          Acadêmico
+         </a>
+        </li>
+       </ul>
+      </div>
+     </nav>
+    </div>
+   </header>
+   <div class="col-md-3" id="menu">
+    <div id="menu-campus">
+     <div class="titulo-menu row">
+      <h1 class="icon-campus">
+       Campus
+      </h1>
+     </div>
+     <div class="menu-menu-campus-container">
+      <ul class="menu" id="menu-menu-campus">
+       <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12479" id="menu-item-12479">
+        <a href="https://www.quixada.ufc.br/comissao-de-direitos-humanos/">
+         Comissão de Direitos Humanos
+        </a>
+       </li>
+       <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1208" id="menu-item-1208">
+        <a href="https://www.quixada.ufc.br/cpa-comissao-propria-de-avaliacao/">
+         Comissão Própria de Avaliação
+        </a>
+       </li>
+       <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-80" id="menu-item-80">
+        <a href="https://www.quixada.ufc.br/campus/">
+         Conheça o Campus
+        </a>
+        <ul class="sub-menu">
+         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12780" id="menu-item-12780">
+          <a href="https://www.quixada.ufc.br/ensino/">
+           Ensino
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12774" id="menu-item-12774">
+          <a href="https://www.quixada.ufc.br/extensao/">
+           Extensão
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12770" id="menu-item-12770">
+          <a href="https://www.quixada.ufc.br/pesquisa/">
+           Pesquisa
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li class="menu-item menu-item-type-docente menu-item-object-cpt-archive menu-item-895" id="menu-item-895">
+        <a href="https://www.quixada.ufc.br/docente/" rel="0">
+         Docentes
+        </a>
+       </li>
+       <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-5952" id="menu-item-5952">
+        <a href="https://www.quixada.ufc.br/editais/">
+         Editais
+        </a>
+        <ul class="sub-menu">
+         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13105" id="menu-item-13105">
+          <a href="https://www.quixada.ufc.br/editais/assistencia-estudantil/">
+           PRAE – Assistência Estudantil
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13098" id="menu-item-13098">
+          <a href="https://www.quixada.ufc.br/bolsas/">
+           Bolsas
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13101" id="menu-item-13101">
+          <a href="https://www.quixada.ufc.br/concursos-e-selecoes/">
+           Concursos e seleções
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13092" id="menu-item-13092">
+          <a href="https://www.quixada.ufc.br/mestrado-em-computacao/">
+           Mestrado em Computação
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14155" id="menu-item-14155">
+        <a href="http://fotos.quixada.ufc.br/">
+         Repositório de fotos
+        </a>
+       </li>
+       <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1381" id="menu-item-1381">
+        <a href="http://www.quixada.ufc.br/sta/">
+         Técnico-administrativos
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div id="menu-aluno">
+     <div class="titulo-menu row">
+      <h1 class="icon-alunos">
+       Área do Aluno
+      </h1>
+     </div>
+     <div class="menu-area-do-aluno-container">
+      <ul class="menu" id="menu-area-do-aluno">
+       <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-102" id="menu-item-102">
+        <a href="https://www.quixada.ufc.br/alocacao/">
+         Alocação de Salas 2024.2
+        </a>
+       </li>
+       <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-94" id="menu-item-94">
+        <a href="https://www.quixada.ufc.br/avaliacao-academica/">
+         Avaliação Institucional
+        </a>
+       </li>
+       <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-95" id="menu-item-95">
+        <a href="https://www.quixada.ufc.br/bolsas-e-auxilios/">
+         Bolsas e Auxílios
+        </a>
+       </li>
+       <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-97" id="menu-item-97">
+        <a href="https://www.quixada.ufc.br/direitos-e-deveres/">
+         Direitos e Deveres
+        </a>
+       </li>
+       <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12440" id="menu-item-12440">
+        <a href="https://www.quixada.ufc.br/documentos/">
+         Documentos dos Cursos
+        </a>
+       </li>
+       <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-99" id="menu-item-99">
+        <a href="https://www.quixada.ufc.br/duvidas-frequentes/">
+         Dúvidas Frequentes
+        </a>
+       </li>
+       <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23528" id="menu-item-23528">
+        <a href="https://bit.ly/estagio-ufc-quixada">
+         Estágio – Campus de Quixadá
+        </a>
+       </li>
+       <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8719" id="menu-item-8719">
+        <a href="https://www.quixada.ufc.br/formularios/">
+         Formulários
+        </a>
+       </li>
+       <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6899" id="menu-item-6899">
+        <a href="http://www.guiadoestudante.ufc.br">
+         Guia do Estudante
+        </a>
+       </li>
+       <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-104" id="menu-item-104">
+        <a href="https://www.quixada.ufc.br/itinerario-dos-onibus/">
+         Itinerário dos ônibus – 2024.1
+        </a>
+       </li>
+       <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-106" id="menu-item-106">
+        <a href="https://www.quixada.ufc.br/matricula/">
+         Matrícula
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div id="menu-cursos">
+     <div class="titulo-menu row">
+      <h1 class="icon-cursos">
+       Cursos
+      </h1>
+     </div>
+     <ul>
+      <a alt="Ciência da Computação" href="http://cc.quixada.ufc.br" target="blank">
+       <li>
+        Ciência da Computação
+       </li>
+      </a>
+      <a alt="Design Digital" href="http://dd.quixada.ufc.br" target="blank">
+       <li>
+        Design Digital
+       </li>
+      </a>
+      <a alt="Engenharia de Computação" href="http://ec.quixada.ufc.br" target="blank">
+       <li>
+        Engenharia de Computação
+       </li>
+      </a>
+      <a alt="Engenharia de Software" href="https://es.quixada.ufc.br/" target="blank">
+       <li>
+        Engenharia de Software
+       </li>
+      </a>
+      <a alt="Redes de Computadores" href="http://rc.quixada.ufc.br" target="blank">
+       <li>
+        Redes de Computadores
+       </li>
+      </a>
+      <a alt="Sistemas de Informação" href="http://si.quixada.ufc.br" target="blank">
+       <li>
+        Sistemas de Informação
+       </li>
+      </a>
+      <a alt="Mestrado em Computação" href="http://pcomp.quixada.ufc.br/" target="blank">
+       <li>
+        Mestrado em Computação
+       </li>
+      </a>
+     </ul>
+    </div>
+    <div id="menu-servicos">
+     <div class="titulo-menu row">
+      <h1 class="icon-servicos">
+       Serviços
+      </h1>
+     </div>
+     <div class="menu-menu-servicos-container">
+      <ul class="menu" id="menu-menu-servicos">
+       <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-536" id="menu-item-536">
+        <a href="https://www.quixada.ufc.br/biblioteca/">
+         Biblioteca
+        </a>
+       </li>
+       <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12897" id="menu-item-12897">
+        <a href="https://inove.quixada.ufc.br/#/">
+         INOVE
+        </a>
+       </li>
+       <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12901" id="menu-item-12901">
+        <a href="https://www.quixada.ufc.br/nas-nucleo-de-atendimento-social/">
+         NAS – Núcleo de Atendimento Social
+        </a>
+       </li>
+       <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12899" id="menu-item-12899">
+        <a href="https://www.quixada.ufc.br/npi-nucleo-de-praticas-em-informatica/">
+         NPI – Núcleo de Práticas em Informática
+        </a>
+       </li>
+       <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5306" id="menu-item-5306">
+        <a href="http://ntic.quixada.ufc.br">
+         Núcleo de TI
+        </a>
+       </li>
+       <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-107" id="menu-item-107">
+        <a href="https://www.quixada.ufc.br/nutricao/">
+         Nutrição
+        </a>
+       </li>
+       <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22330" id="menu-item-22330">
+        <a href="https://www.quixada.ufc.br/prefeitura/">
+         Prefeitura
+        </a>
+       </li>
+       <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-109" id="menu-item-109">
+        <a href="https://www.quixada.ufc.br/psicologia/">
+         Psicologia
+        </a>
+       </li>
+       <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7538" id="menu-item-7538">
+        <a href="https://www.quixada.ufc.br/restaurante-universitario/">
+         Restaurante Universitário
+        </a>
+       </li>
+       <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5415" id="menu-item-5415">
+        <a href="https://www.quixada.ufc.br/secretaria-academica/">
+         Secretaria Acadêmica
+        </a>
+       </li>
+       <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5236" id="menu-item-5236">
+        <a href="https://www.quixada.ufc.br/servicosocial/">
+         Serviço Social
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div id="menu-eventos">
+     <div class="titulo-menu row">
+      <h1 class="icon-eventos">
+       Eventos
+      </h1>
+     </div>
+     <ul>
+      <a alt="ExpoSE" href="https://www.quixada.ufc.br/evento/expose/" target="blank">
+       <li>
+        ExpoSE
+       </li>
+      </a>
+      <a alt="Empreenday" href="https://www.quixada.ufc.br/evento/empreenday/" target="blank">
+       <li>
+        Empreenday
+       </li>
+      </a>
+      <a alt="InfoGirl" href="https://www.quixada.ufc.br/evento/infogirl/" target="blank">
+       <li>
+        InfoGirl
+       </li>
+      </a>
+      <a alt="Encontros Universitários" href="https://www.quixada.ufc.br/evento/encontros-universitarios/" target="blank">
+       <li>
+        Encontros Universitários
+       </li>
+      </a>
+      <a alt="WTISC" href="https://www.quixada.ufc.br/evento/wtisc/" target="blank">
+       <li>
+        WTISC
+       </li>
+      </a>
+     </ul>
+    </div>
+    <div id="radio">
+     <div class="titulo-menu row">
+      <h1 style="margin-left: 20px;">
+       Rádio
+      </h1>
+     </div>
+     <div style="overflow: hidden;">
+      <script>
+       (function (win, doc, script, source, objectName) { (win.RadionomyPlayerObject = win.RadionomyPlayerObject || []).push(objectName); win[objectName] = win[objectName] || function (k, v) { (win[objectName].parameters = win[objectName].parameters || { src: source, version: '1.1' })[k] = v; }; var js, rjs = doc.getElementsByTagName(script)[0]; js = doc.createElement(script); js.async = 1; js.src = source; rjs.parentNode.insertBefore(js, rjs); }(window, document, 'script', 'https://www.radionomy.com/js/radionomy.player.js', 'radplayer'));
+radplayer('url', 'universitariafm');
+radplayer('type', 'mobile');
+radplayer('autoplay', '0');
+radplayer('volume', '50');
+radplayer('color1', '#000000');
+radplayer('color2', '#ffffff');
+      </script>
+      <div class="radionomy-player">
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="col-md-9" id="conteudo">
+    <div class="col-md-12" id="slider">
+     <div aria-label="PÁGINA INICIAL" aria-roledescription="Slideshow" class="ml-slider-3-92-1 metaslider metaslider-nivo metaslider-21439 ml-slider ms-theme-default" id="metaslider-id-21439" role="region" style="max-width: 1200px; margin: 0 auto;">
+      <div id="metaslider_container_21439">
+       <div class="slider-wrapper theme-default">
+        <div class="ribbon">
+        </div>
+        <div class="nivoSlider" id="metaslider_21439">
+         <a href="https://www.quixada.ufc.br/campus/" target="_blank">
+          <img alt="" class="slider-21439 slide-21464" height="450" src="https://www.quixada.ufc.br/wp-content/uploads/2023/09/imagem-3-2-1200x450.jpeg" title="imagem 3" width="1200"/>
+         </a>
+         <a href="https://www.quixada.ufc.br/evento/encontros-universitarios/" target="_self">
+          <img alt="" class="slider-21439 slide-23543" height="450" src="https://www.quixada.ufc.br/wp-content/uploads/2024/10/EU24_banner_site-1200x450.jpg" title="EU24_banner_site" width="1200"/>
+         </a>
+         <a href="https://www.quixada.ufc.br/2024/10/04/ufc-lanca-edital-de-concurso-para-servidores-tecnico-administrativos-quixada-tem-4-vagas-mais-cadastro-reserva/" target="_self">
+          <img alt="" class="slider-21439 slide-23605" height="450" src="https://www.quixada.ufc.br/wp-content/uploads/2024/10/banner_principal_concursotae-750x281.png" title="banner_principal_concursotae" width="1200"/>
+         </a>
+         <a href="https://www.ufc.br/noticias/19002-estatuinte-da-ufc-voce-sabe-o-que-e" target="_blank">
+          <img alt="" class="slider-21439 slide-23685" height="450" src="https://www.quixada.ufc.br/wp-content/uploads/2024/10/banner_principal_estatuinte-750x281.png" title="banner_principal_estatuinte" width="1200"/>
+         </a>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="col-md-12" id="cursos">
+     <div class="titulo-conteudo">
+      <h1 class="icon-cursos">
+       Cursos
+      </h1>
+     </div>
+     <center>
+      <ul>
+       <li>
+        <a alt="Ciência da Computação" href="https://cc.quixada.ufc.br" target="blank">
+         <img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="80" src="https://www.quixada.ufc.br/wp-content/uploads/2015/01/botao_cc11.png" width="80"/>
+        </a>
+       </li>
+       <li>
+        <a alt="Design Digital" href="https://dd.quixada.ufc.br" target="blank">
+         <img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="80" src="https://www.quixada.ufc.br/wp-content/uploads/2015/01/botao_dd.png" width="80"/>
+        </a>
+       </li>
+       <li>
+        <a alt="Engenharia de Computação" href="https://ec.quixada.ufc.br" target="blank">
+         <img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="80" src="https://www.quixada.ufc.br/wp-content/uploads/2015/01/botao_ec.png" width="80"/>
+        </a>
+       </li>
+       <li>
+        <a alt="Engenharia de Software" href="https://es.quixada.ufc.br/" target="blank">
+         <img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="80" src="https://www.quixada.ufc.br/wp-content/uploads/2015/01/botao_es.png" width="80"/>
+        </a>
+       </li>
+       <li>
+        <a alt="Redes de Computadores" href="https://rc.quixada.ufc.br" target="blank">
+         <img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="80" src="https://www.quixada.ufc.br/wp-content/uploads/2015/01/botao_rc.png" width="80"/>
+        </a>
+       </li>
+       <li>
+        <a alt="Sistemas de Informação" href="https://si.quixada.ufc.br" target="blank">
+         <img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="80" src="https://www.quixada.ufc.br/wp-content/uploads/2015/01/botao_si.png" width="80"/>
+        </a>
+       </li>
+       <li>
+        <a alt="Mestrado em Computação" href="https://pcomp.quixada.ufc.br/" target="blank">
+         <img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="80" src="https://www.quixada.ufc.br/wp-content/uploads/2018/12/pcomp-e1545333112841.jpg" width="80"/>
+        </a>
+       </li>
+      </ul>
+     </center>
+    </div>
+    <div class="col-md-12" id="destaques">
+     <div class="titulo-conteudo">
+      <h1 class="icon-destaques">
+       Destaques
+      </h1>
+     </div>
+     <div class="col-md-12 destaque">
+      <div class="col-md-4">
+       <img alt="" class="attachment-destaque size-destaque wp-post-image" decoding="async" height="160" sizes="(max-width: 240px) 100vw, 240px" src="https://www.quixada.ufc.br/wp-content/uploads/2024/11/20240122-Colacao-de-Grau-Quixada-23.2-Fotos-Ribamar-Neto-UFC-62-240x160.jpg" srcset="https://www.quixada.ufc.br/wp-content/uploads/2024/11/20240122-Colacao-de-Grau-Quixada-23.2-Fotos-Ribamar-Neto-UFC-62-240x160.jpg 240w, https://www.quixada.ufc.br/wp-content/uploads/2024/11/20240122-Colacao-de-Grau-Quixada-23.2-Fotos-Ribamar-Neto-UFC-62-300x200.jpg 300w, https://www.quixada.ufc.br/wp-content/uploads/2024/11/20240122-Colacao-de-Grau-Quixada-23.2-Fotos-Ribamar-Neto-UFC-62-1024x683.jpg 1024w, https://www.quixada.ufc.br/wp-content/uploads/2024/11/20240122-Colacao-de-Grau-Quixada-23.2-Fotos-Ribamar-Neto-UFC-62-150x100.jpg 150w, https://www.quixada.ufc.br/wp-content/uploads/2024/11/20240122-Colacao-de-Grau-Quixada-23.2-Fotos-Ribamar-Neto-UFC-62-768x512.jpg 768w, https://www.quixada.ufc.br/wp-content/uploads/2024/11/20240122-Colacao-de-Grau-Quixada-23.2-Fotos-Ribamar-Neto-UFC-62-1536x1024.jpg 1536w, https://www.quixada.ufc.br/wp-content/uploads/2024/11/20240122-Colacao-de-Grau-Quixada-23.2-Fotos-Ribamar-Neto-UFC-62.jpg 2047w" width="240">
+       </img>
+      </div>
+      <div class="col-md-8">
+       <a href="https://www.quixada.ufc.br/2024/11/07/orientacoes-para-a-colacao-de-grau-2024-1-em-quixada/">
+        <h1>
+         Orientações para a colação de grau 2024.1 em Quixadá
+        </h1>
+       </a>
+       <small>
+        Publicado em 7 de novembro de 2024
+       </small>
+       <p>
+        Concludentes devem ficar atentos a todos os detalhes, como dias do ensaio e da solenidade de colação de grau da sua turma, cor da faixa do curso e assinatura da[…]
+        <a class="btn btn-default btn-xs" href="https://www.quixada.ufc.br/2024/11/07/orientacoes-para-a-colacao-de-grau-2024-1-em-quixada/">
+         <span aria-hidden="true" class="glyphicon glyphicon-search">
+         </span>
+         Leia mais
+        </a>
+       </p>
+      </div>
+     </div>
+     <div class="col-md-12 destaque">
+      <div class="col-md-4">
+       <img alt="" class="attachment-destaque size-destaque wp-post-image" decoding="async" fetchpriority="high" height="300" sizes="(max-width: 240px) 100vw, 240px" src="https://www.quixada.ufc.br/wp-content/uploads/2015/06/WhatsApp-Image-2024-11-04-at-11.16.59-240x300.jpeg" srcset="https://www.quixada.ufc.br/wp-content/uploads/2015/06/WhatsApp-Image-2024-11-04-at-11.16.59-240x300.jpeg 240w, https://www.quixada.ufc.br/wp-content/uploads/2015/06/WhatsApp-Image-2024-11-04-at-11.16.59-819x1024.jpeg 819w, https://www.quixada.ufc.br/wp-content/uploads/2015/06/WhatsApp-Image-2024-11-04-at-11.16.59-120x150.jpeg 120w, https://www.quixada.ufc.br/wp-content/uploads/2015/06/WhatsApp-Image-2024-11-04-at-11.16.59-768x960.jpeg 768w, https://www.quixada.ufc.br/wp-content/uploads/2015/06/WhatsApp-Image-2024-11-04-at-11.16.59-1229x1536.jpeg 1229w, https://www.quixada.ufc.br/wp-content/uploads/2015/06/WhatsApp-Image-2024-11-04-at-11.16.59.jpeg 1280w" width="240">
+       </img>
+      </div>
+      <div class="col-md-8">
+       <a href="https://www.quixada.ufc.br/2024/11/04/pet-si-promove-wtisc-2024-de-06-a-08-de-novembro/">
+        <h1>
+         PET-SI promove WTISC 2024 de 06 a 08 de novembro
+        </h1>
+       </a>
+       <small>
+        Publicado em 4 de novembro de 2024
+       </small>
+       <p>
+        O Programa de Educação Tutorial do curso de Sistemas de Informação (PET-SI) da Universidade Federal do Ceará – Campus de Quixadá promove entre os dias 06 a 08 de novembro, das[…]
+        <a class="btn btn-default btn-xs" href="https://www.quixada.ufc.br/2024/11/04/pet-si-promove-wtisc-2024-de-06-a-08-de-novembro/">
+         <span aria-hidden="true" class="glyphicon glyphicon-search">
+         </span>
+         Leia mais
+        </a>
+       </p>
+      </div>
+     </div>
+     <div class="col-md-12 destaque">
+      <div class="col-md-4">
+       <img alt="" class="attachment-destaque size-destaque wp-post-image" decoding="async" height="237" sizes="(max-width: 240px) 100vw, 240px" src="https://www.quixada.ufc.br/wp-content/uploads/2024/10/eu-2024-e1730316757554-240x237.jpeg" srcset="https://www.quixada.ufc.br/wp-content/uploads/2024/10/eu-2024-e1730316757554-240x237.jpeg 240w, https://www.quixada.ufc.br/wp-content/uploads/2024/10/eu-2024-e1730316757554-300x296.jpeg 300w, https://www.quixada.ufc.br/wp-content/uploads/2024/10/eu-2024-e1730316757554-150x148.jpeg 150w, https://www.quixada.ufc.br/wp-content/uploads/2024/10/eu-2024-e1730316757554.jpeg 537w" width="240">
+       </img>
+      </div>
+      <div class="col-md-8">
+       <a href="https://www.quixada.ufc.br/2024/10/30/publicado-o-edital-dos-encontros-universitarios-2024-do-campus-de-quixada-confira-cronograma-e-prazo-para-submissao-de-trabalhos/">
+        <h1>
+         Publicado o edital dos Encontros Universitários 2024 do Campus de Quixadá; confira cronograma e prazo para submissão de trabalhos
+        </h1>
+       </a>
+       <small>
+        Publicado em 30 de outubro de 2024
+       </small>
+       <p>
+        A comissão organizadora dos Encontros Universitários (EU) 2024 publicou o edital que vai regulamentar as atividades do evento, que ocorrerá de 03 a 05 de dezembro, presencialmente, no Campus da[…]
+        <a class="btn btn-default btn-xs" href="https://www.quixada.ufc.br/2024/10/30/publicado-o-edital-dos-encontros-universitarios-2024-do-campus-de-quixada-confira-cronograma-e-prazo-para-submissao-de-trabalhos/">
+         <span aria-hidden="true" class="glyphicon glyphicon-search">
+         </span>
+         Leia mais
+        </a>
+       </p>
+      </div>
+     </div>
+     <!-- Print a link to this category -->
+     <center>
+      <a class="btn btn-info btn-lg" href="https://www.quixada.ufc.br/category/destaque/" title="Mais Notícias">
+       <span aria-hidden="true" class="glyphicon glyphicon-plus">
+       </span>
+       Mais Destaques
+      </a>
+     </center>
+    </div>
+    <div class="col-md-12" id="ultimas">
+     <div class="titulo-conteudo">
+      <h1 class="icon-ultimas">
+       Últimas Notícias
+      </h1>
+     </div>
+     <div class="noticia">
+      <a href="https://www.quixada.ufc.br/2024/11/07/orientacoes-para-a-colacao-de-grau-2024-1-em-quixada/">
+       <h1>
+        Orientações para a colação de grau 2024.1 em Quixadá
+       </h1>
+      </a>
+      <small>
+       <p>
+        Concludentes devem ficar atentos a todos os detalhes, como dias do ensaio e da solenidade de colação de grau da sua turma, cor da faixa do curso e assinatura da[…]
+        <a class="btn btn-default btn-xs" href="https://www.quixada.ufc.br/2024/11/07/orientacoes-para-a-colacao-de-grau-2024-1-em-quixada/">
+         <span aria-hidden="true" class="glyphicon glyphicon-search">
+         </span>
+         Leia mais
+        </a>
+       </p>
+      </small>
+      <hr/>
+     </div>
+     <div class="noticia">
+      <a href="https://www.quixada.ufc.br/2024/11/07/atividades-regulares-aulas-e-avaliacoes-estao-suspensas-durante-os-eu2024-para-estudantes-de-graduacao-e-pos-graduacao/">
+       <h1>
+        Atividades regulares (aulas e avaliações) estão suspensas durante os EU2024 para estudantes de graduação e pós-graduação
+       </h1>
+      </a>
+      <small>
+       <p>
+        A Pró-Reitoria de Graduação da Universidade Federal do Ceará (PROGRAD/UFC) e a Pró-Reitoria de Pesquisa e Pós-Graduação (PRPPG/UFC) informam, por meio do Ofício n°145/2024, que durante os dias dos Encontros Universitários[…]
+        <a class="btn btn-default btn-xs" href="https://www.quixada.ufc.br/2024/11/07/atividades-regulares-aulas-e-avaliacoes-estao-suspensas-durante-os-eu2024-para-estudantes-de-graduacao-e-pos-graduacao/">
+         <span aria-hidden="true" class="glyphicon glyphicon-search">
+         </span>
+         Leia mais
+        </a>
+       </p>
+      </small>
+      <hr/>
+     </div>
+     <div class="noticia">
+      <a href="https://www.quixada.ufc.br/2024/11/04/campus-de-quixada-apresenta-artigos-nos-sbie-wie-2024-do-dia-04-ao-08/">
+       <h1>
+        Campus de Quixadá apresenta artigos nos SBIE/WIE 2024
+       </h1>
+      </a>
+      <small>
+       <p>
+        A Universidade Federal do Ceará – Campus Quixadá apresenta artigos, entre os dias 04 e 08 de novembro, no CBIE – Congresso Brasileiro de Informática na Educação, durante o evento,[…]
+        <a class="btn btn-default btn-xs" href="https://www.quixada.ufc.br/2024/11/04/campus-de-quixada-apresenta-artigos-nos-sbie-wie-2024-do-dia-04-ao-08/">
+         <span aria-hidden="true" class="glyphicon glyphicon-search">
+         </span>
+         Leia mais
+        </a>
+       </p>
+      </small>
+      <hr/>
+     </div>
+     <div class="noticia">
+      <a href="https://www.quixada.ufc.br/2024/11/04/pet-si-promove-wtisc-2024-de-06-a-08-de-novembro/">
+       <h1>
+        PET-SI promove WTISC 2024 de 06 a 08 de novembro
+       </h1>
+      </a>
+      <small>
+       <p>
+        O Programa de Educação Tutorial do curso de Sistemas de Informação (PET-SI) da Universidade Federal do Ceará – Campus de Quixadá promove entre os dias 06 a 08 de novembro, das[…]
+        <a class="btn btn-default btn-xs" href="https://www.quixada.ufc.br/2024/11/04/pet-si-promove-wtisc-2024-de-06-a-08-de-novembro/">
+         <span aria-hidden="true" class="glyphicon glyphicon-search">
+         </span>
+         Leia mais
+        </a>
+       </p>
+      </small>
+      <hr/>
+     </div>
+     <div class="noticia">
+      <a href="https://www.quixada.ufc.br/2024/10/31/discentes-da-fadat-oferecem-avaliacao-nutricional-em-estudantes-e-servidores-da-ufc/">
+       <h1>
+        Discentes da FADAT oferecem avaliação nutricional em estudantes e servidores da UFC
+       </h1>
+      </a>
+      <small>
+       <p>
+        Através de parceria entre as nutricionistas do Campus da UFC em Quixadá e a coordenação do curso de Nutrição da FADAT, graduandos de nutrição realizarão avaliação nutricional em estudantes e[…]
+        <a class="btn btn-default btn-xs" href="https://www.quixada.ufc.br/2024/10/31/discentes-da-fadat-oferecem-avaliacao-nutricional-em-estudantes-e-servidores-da-ufc/">
+         <span aria-hidden="true" class="glyphicon glyphicon-search">
+         </span>
+         Leia mais
+        </a>
+       </p>
+      </small>
+      <hr/>
+     </div>
+     <!-- Print a link to this category -->
+     <center>
+      <a class="btn btn-info btn-lg" href="https://www.quixada.ufc.br/category/noticia/" title="Mais Notícias">
+       <span aria-hidden="true" class="glyphicon glyphicon-plus">
+       </span>
+       Mais Notícias
+      </a>
+     </center>
+    </div>
+   </div>
+   <div class="col-md-12" id="rodape">
+    <a href="http://www.ufc.br" target="blank">
+     <img src="https://www.quixada.ufc.br/wp-content/themes/ufc-quixada/images/logo_ufc_horizontal-01.png" width="250"/>
+    </a>
+    <p>
+     ©2024 - Universidade Federal do Ceará - Campus Quixadá. Todos os direitos reservados.
+     <br/>
+     Endereço: Av. José de Freitas Queiroz, 5003 – Cedro – Quixadá – Ceará 63902-580
+     <br/>
+     Telefones:
+     <br/>
+     Secretaria do Campus: (88) 3411-9422
+     <br/>
+     Secretaria Acadêmica: (88) 3411-9410
+     <br/>
+    </p>
+   </div>
+  </div>
+  <div id="footer-brasil">
+  </div>
+  <!-- ANALYTICS -->
+  <script>
+   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-77525845-1', 'auto');
+  ga('send', 'pageview');
+  </script>
+  <!-- ANALYTICS -->
+  <script defer="defer" src="//barra.brasil.gov.br/barra.js" type="text/javascript">
+  </script>
+  <!-- Start of Rocket.Chat Livechat Script -->
+  <script type="text/javascript">
+   (function(w, d, s, u) {
+		w.RocketChat = function(c) { w.RocketChat._.push(c) }; w.RocketChat._ = []; w.RocketChat.url = u;
+		var h = d.getElementsByTagName(s)[0], j = d.createElement(s);
+		j.async = true; j.src = 'https://chat.quixada.ufc.br/livechat/rocketchat-livechat.min.js?_=201903270000';
+		h.parentNode.insertBefore(j, h);
+	})(window, document, 'script', 'https://chat.quixada.ufc.br/livechat');
+  </script>
+ </body>
+ <style type="text/css">
+  h2.frq-main-title{
+               font-size: 18px;
+            }
+            .hrf-entry{
+               border:none !important;
+               margin-bottom: 0px !important;
+               padding-bottom: 0px !important;
+            }
+            .hrf-content{
+               display:none;
+               color: #444444;
+               background: #ffffff;
+               font-size: 14px;
+               padding: 10px;
+               padding-left: 50px;
+               word-break: normal;
+            }
+            h3.hrf-title{
+               font-size: 18px ;
+               color: #444444;
+               background: #ffffff;
+               padding: 10px ;
+               padding-left: 50px;
+               margin: 0;
+               -webkit-touch-callout: none;
+               -webkit-user-select: none;
+               -khtml-user-select: none;
+               -moz-user-select: none;
+               -ms-user-select: none;
+               user-select: none;
+               outline-style:none;
+            }
+            .hrf-title.close-faq{
+               cursor: pointer;
+            }
+            .hrf-title.close-faq span{
+               width: 30px;
+               height: 30px;
+               display: inline-block;
+               position: relative;
+               left: 0;
+               top: 8px;
+               margin-right: 12px;
+               margin-left: -42px;
+               background: #444444 url(https://www.quixada.ufc.br/wp-content/plugins/html5-responsive-faq/images/open.png) no-repeat center center;
+            }
+            }.hrf-title.open-faq{
+            
+            }
+            .hrf-title.open-faq span{
+               width: 30px;
+               height: 30px;
+               display: inline-block;
+               position: relative;
+               left: 0;
+               top: 8px;
+               margin-right: 12px;
+               margin-left: -42px;
+               background: #444444 url(https://www.quixada.ufc.br/wp-content/plugins/html5-responsive-faq/images/close.png) no-repeat center center;
+            }
+            .hrf-entry p{
+            
+            }
+            .hrf-entry ul{
+            
+            }
+            .hrf-entry ul li{
+            
+            }
+ </style>
+ <div class="wprm-wrapper">
+  <!-- Overlay Starts here -->
+  <!-- Overlay Ends here -->
+  <div class="wprmenu_bar left" id="wprmenu_bar">
+   <div class="hamburger hamburger--slider">
+    <span class="hamburger-box">
+     <span class="hamburger-inner">
+     </span>
+    </span>
+   </div>
+   <div class="menu_title">
+    <a href="https://www.quixada.ufc.br">
+     MENU
+    </a>
+   </div>
+  </div>
+  <div class="cbp-spmenu cbp-spmenu-vertical cbp-spmenu-left" id="mg-wprm-wrap">
+   <ul id="wprmenu_menu_ul">
+    <li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-110" id="menu-item-110">
+     <a aria-current="page" href="http://www.quixada.ufc.br">
+      Home
+     </a>
+    </li>
+    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2992" id="menu-item-2992">
+     <a href="https://www.quixada.ufc.br/campus/">
+      Conheça o Campus
+     </a>
+    </li>
+    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-126" id="menu-item-126">
+     <a href="https://www.quixada.ufc.br/alocacao/">
+      Alocação de Salas 2024.2
+     </a>
+    </li>
+    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-111" id="menu-item-111">
+     <a href="https://www.quixada.ufc.br/avaliacao-academica/">
+      Avaliação Institucional
+     </a>
+    </li>
+    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-112" id="menu-item-112">
+     <a href="https://www.quixada.ufc.br/biblioteca/">
+      Biblioteca
+     </a>
+    </li>
+    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-113" id="menu-item-113">
+     <a href="https://www.quixada.ufc.br/bolsas-e-auxilios/">
+      Bolsas e Auxílios
+     </a>
+     <ul class="sub-menu">
+      <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17852" id="menu-item-17852">
+       <a href="https://www.quixada.ufc.br/bolsas/">
+        Bolsas
+       </a>
+      </li>
+      <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17853" id="menu-item-17853">
+       <a href="https://www.quixada.ufc.br/concursos-e-selecoes/">
+        Concursos e seleções
+       </a>
+      </li>
+      <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17778" id="menu-item-17778">
+       <a href="https://www.quixada.ufc.br/editais/assistencia-estudantil/">
+        PRAE – Assistência Estudantil
+       </a>
+      </li>
+     </ul>
+    </li>
+    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-114" id="menu-item-114">
+     <a href="https://www.quixada.ufc.br/calendario-universitario/">
+      Calendário Universitário
+     </a>
+    </li>
+    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-116" id="menu-item-116">
+     <a href="https://www.quixada.ufc.br/coordenadorias/">
+      Coordenadorias
+     </a>
+    </li>
+    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-117" id="menu-item-117">
+     <a href="https://www.quixada.ufc.br/cpa-comissao-propria-de-avaliacao/">
+      CPA – Comissão Própria de Avaliação
+     </a>
+    </li>
+    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14081" id="menu-item-14081">
+     <a href="https://www.quixada.ufc.br/concursos-e-selecoes/">
+      Concursos e seleções
+     </a>
+    </li>
+    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14559" id="menu-item-14559">
+     <a href="https://www.quixada.ufc.br/cursos/">
+      Cursos
+     </a>
+    </li>
+    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-118" id="menu-item-118">
+     <a href="https://www.quixada.ufc.br/direitos-e-deveres/">
+      Direitos e Deveres
+     </a>
+    </li>
+    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-120" id="menu-item-120">
+     <a href="https://www.quixada.ufc.br/duvidas-frequentes/">
+      Dúvidas Frequentes
+     </a>
+    </li>
+    <li class="menu-item menu-item-type-docente menu-item-object-cpt-archive menu-item-142" id="menu-item-142">
+     <a href="https://www.quixada.ufc.br/docente/" rel="0">
+      Docentes
+     </a>
+    </li>
+    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-121" id="menu-item-121">
+     <a href="https://www.quixada.ufc.br/editais/">
+      Editais
+     </a>
+    </li>
+    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-122" id="menu-item-122">
+     <a href="https://www.quixada.ufc.br/ensino/">
+      Ensino
+     </a>
+    </li>
+    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17774" id="menu-item-17774">
+     <a href="https://www.quixada.ufc.br/estagio/">
+      Estágio
+     </a>
+    </li>
+    <li class="menu-item menu-item-type-evento menu-item-object-cpt-archive menu-item-141" id="menu-item-141">
+     <a href="https://www.quixada.ufc.br/evento/" rel="0">
+      Eventos
+     </a>
+    </li>
+    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-123" id="menu-item-123">
+     <a href="https://www.quixada.ufc.br/extensao/">
+      Extensão
+     </a>
+    </li>
+    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-124" id="menu-item-124">
+     <a href="https://www.quixada.ufc.br/fale-conosco/">
+      Fale Conosco
+     </a>
+    </li>
+    <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14154" id="menu-item-14154">
+     <a href="http://fotos.quixada.ufc.br/">
+      Fotos
+     </a>
+    </li>
+    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17777" id="menu-item-17777">
+     <a href="https://www.quixada.ufc.br/formularios/">
+      Formulários
+     </a>
+    </li>
+    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-125" id="menu-item-125">
+     <a href="https://www.quixada.ufc.br/historico-escolar/">
+      Histórico Escolar
+     </a>
+    </li>
+    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4043" id="menu-item-4043">
+     <a href="https://www.quixada.ufc.br/?page_id=4010">
+      Identidade Visual
+     </a>
+    </li>
+    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-128" id="menu-item-128">
+     <a href="https://www.quixada.ufc.br/intercambio-internacional/">
+      Intercâmbio Internacional
+     </a>
+    </li>
+    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-129" id="menu-item-129">
+     <a href="https://www.quixada.ufc.br/itinerario-dos-onibus/">
+      Itinerário dos ônibus – 2023.2
+     </a>
+    </li>
+    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17775" id="menu-item-17775">
+     <a href="https://www.quixada.ufc.br/mapa-do-campus-da-ufc-em-quixada/">
+      Mapa do Campus da UFC em Quixadá
+     </a>
+    </li>
+    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-131" id="menu-item-131">
+     <a href="https://www.quixada.ufc.br/matricula/">
+      Matrícula
+     </a>
+     <ul class="sub-menu">
+      <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17855" id="menu-item-17855">
+       <a href="https://www.quixada.ufc.br/documentos/">
+        Documentos dos Cursos
+       </a>
+      </li>
+     </ul>
+    </li>
+    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-132" id="menu-item-132">
+     <a href="https://www.quixada.ufc.br/nas-nucleo-de-atendimento-social/">
+      NAS – Núcleo de Atendimento Social
+     </a>
+    </li>
+    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17858" id="menu-item-17858">
+     <a href="https://www.quixada.ufc.br/o-campus-na-midia/">
+      Notícias sobre o Campus
+     </a>
+    </li>
+    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-133" id="menu-item-133">
+     <a href="https://www.quixada.ufc.br/npi-nucleo-de-praticas-em-informatica/">
+      NPI – Núcleo de Práticas em Informática
+     </a>
+    </li>
+    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-134" id="menu-item-134">
+     <a href="https://www.quixada.ufc.br/nutricao/">
+      Nutrição
+     </a>
+    </li>
+    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-136" id="menu-item-136">
+     <a href="https://www.quixada.ufc.br/organograma/">
+      Organograma
+     </a>
+    </li>
+    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-137" id="menu-item-137">
+     <a href="https://www.quixada.ufc.br/pesquisa/">
+      Pesquisa
+     </a>
+    </li>
+    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-138" id="menu-item-138">
+     <a href="https://www.quixada.ufc.br/psicologia/">
+      Psicologia
+     </a>
+    </li>
+    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-139" id="menu-item-139">
+     <a href="https://www.quixada.ufc.br/restaurante-universitario/">
+      Restaurante Universitário
+     </a>
+    </li>
+    <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2993" id="menu-item-2993">
+     <a href="http://www.quixada.ufc.br/sta/">
+      Técnicos-administrativos
+     </a>
+    </li>
+    <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21594" id="menu-item-21594">
+     <a href="http://sistemas.quixada.ufc.br">
+      Sistemas
+     </a>
+    </li>
+   </ul>
+  </div>
+ </div>
+ <link href="https://www.quixada.ufc.br/wp-content/plugins/ml-slider/assets/sliders/nivoslider/nivo-slider.css?ver=3.92.1" id="metaslider-nivo-slider-css" media="all" property="stylesheet" rel="stylesheet" type="text/css"/>
+ <link href="https://www.quixada.ufc.br/wp-content/plugins/ml-slider/assets/metaslider/public.css?ver=3.92.1" id="metaslider-public-css" media="all" property="stylesheet" rel="stylesheet" type="text/css"/>
+ <style id="metaslider-public-inline-css" type="text/css">
+  @media only screen and (max-width: 767px) {body:after { display: none; content: "smartphone"; } .hide-arrows-smartphone .flex-direction-nav, .hide-navigation-smartphone .flex-control-paging, .hide-navigation-smartphone .flex-control-nav, .hide-navigation-smartphone .filmstrip{ display: none!important; }}@media only screen and (min-width : 768px) and (max-width: 1023px) {body:after { display: none; content: "tablet"; } .hide-arrows-tablet .flex-direction-nav, .hide-navigation-tablet .flex-control-paging, .hide-navigation-tablet .flex-control-nav, .hide-navigation-tablet .filmstrip{ display: none!important; }}@media only screen and (min-width : 1024px) and (max-width: 1439px) {body:after { display: none; content: "laptop"; } .hide-arrows-laptop .flex-direction-nav, .hide-navigation-laptop .flex-control-paging, .hide-navigation-laptop .flex-control-nav, .hide-navigation-laptop .filmstrip{ display: none!important; }}@media only screen and (min-width : 1440px) {body:after { display: none; content: "desktop"; } .hide-arrows-desktop .flex-direction-nav, .hide-navigation-desktop .flex-control-paging, .hide-navigation-desktop .flex-control-nav, .hide-navigation-desktop .filmstrip{ display: none!important; }}
+ </style>
+ <link href="https://www.quixada.ufc.br/wp-content/plugins/ml-slider/assets/sliders/nivoslider/themes/default/default.css?ver=3.92.1" id="metaslider-nivo-slider-default-css" media="all" property="stylesheet" rel="stylesheet" type="text/css"/>
+ <script id="h5ab-print-js-js-extra" type="text/javascript">
+  /* <![CDATA[ */
+var h5abPrintSettings = {"customCSS":""};
+/* ]]> */
+ </script>
+ <script id="h5ab-print-js-js" src="https://www.quixada.ufc.br/wp-content/plugins/print-post-and-page/js/h5ab-print.min.js?ver=6.6.2" type="text/javascript">
+ </script>
+ <script id="wp-hooks-js" src="https://www.quixada.ufc.br/wp-includes/js/dist/hooks.min.js?ver=2810c76e705dd1a53b18" type="text/javascript">
+ </script>
+ <script id="wp-i18n-js" src="https://www.quixada.ufc.br/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6" type="text/javascript">
+ </script>
+ <script id="wp-i18n-js-after" type="text/javascript">
+  /* <![CDATA[ */
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+/* ]]> */
+ </script>
+ <script id="swv-js" src="https://www.quixada.ufc.br/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=6.0" type="text/javascript">
+ </script>
+ <script id="contact-form-7-js-before" type="text/javascript">
+  /* <![CDATA[ */
+var wpcf7 = {
+    "api": {
+        "root": "https:\/\/www.quixada.ufc.br\/wp-json\/",
+        "namespace": "contact-form-7\/v1"
+    }
+};
+/* ]]> */
+ </script>
+ <script id="contact-form-7-js" src="https://www.quixada.ufc.br/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.0" type="text/javascript">
+ </script>
+ <script id="metaslider-nivo-slider-js" src="https://www.quixada.ufc.br/wp-content/plugins/ml-slider/assets/sliders/nivoslider/jquery.nivo.slider.pack.js?ver=3.92.1" type="text/javascript">
+ </script>
+ <script id="metaslider-nivo-slider-js-after" type="text/javascript">
+  /* <![CDATA[ */
+var metaslider_21439 = function($) {
+            $('#metaslider_21439').nivoSlider({ 
+                boxCols:7,
+                boxRows:5,
+                pauseTime:3000,
+                effect:"fade",
+                controlNav:true,
+                directionNav:true,
+                pauseOnHover:false,
+                animSpeed:600,
+                prevText:"&lt;&lt;",
+                nextText:"&gt;&gt;",
+                slices:15,
+                manualAdvance:false
+            });
+            $(document).trigger('metaslider/initialized', '#metaslider_21439');
+        };
+        var timer_metaslider_21439 = function() {
+            var slider = !window.jQuery ? window.setTimeout(timer_metaslider_21439, 100) : !jQuery.isReady ? window.setTimeout(timer_metaslider_21439, 1) : metaslider_21439(window.jQuery);
+        };
+        timer_metaslider_21439();
+/* ]]> */
+ </script>
+ <script id="metaslider-script-js-extra" type="text/javascript">
+  /* <![CDATA[ */
+var wpData = {"baseUrl":"https:\/\/www.quixada.ufc.br"};
+/* ]]> */
+ </script>
+ <script id="metaslider-script-js" src="https://www.quixada.ufc.br/wp-content/plugins/ml-slider/assets/metaslider/script.min.js?ver=3.92.1" type="text/javascript">
+ </script>
+ <script>
+  jQuery(document).ready(function($){
+
+    sessionStorage.setItem('h5ab-print-article', '<div id="h5ab-print-content"><h1>Discentes da FADAT oferecem avaliação nutricional em estudantes e servidores da UFC</h1>' + "<div>Atrav\u00e9s de parceria entre as nutricionistas do Campus da UFC em Quixad\u00e1 e a coordena\u00e7\u00e3o do curso de Nutri\u00e7\u00e3o da FADAT, graduandos de nutri\u00e7\u00e3o realizar\u00e3o avalia\u00e7\u00e3o nutricional em estudantes e servidores da UFC. Ser\u00e1 na sala do Conselho do Campus da UFC em Quixad\u00e1 (bloco administrativo, em cima do RU), nos seguintes dias e hor\u00e1rios:<\/div>\n<p>&nbsp;<\/p>\n<ul>\n<li>04\/11, segunda-feira, a partir das 10h;<\/li>\n<li>07\/11,\u00a0 quinta-feira, a partir das 15h30.<\/li>\n<\/ul>\n<p>&nbsp;<\/p>\n<p><img loading=\"lazy\" decoding=\"async\" class=\"aligncenter wp-image-23723\" src=\"https:\/\/www.quixada.ufc.br\/wp-content\/uploads\/2024\/10\/WhatsApp-Image-2024-10-31-at-15.33.03.jpeg\" alt=\"\" width=\"813\" height=\"1016\" srcset=\"https:\/\/www.quixada.ufc.br\/wp-content\/uploads\/2024\/10\/WhatsApp-Image-2024-10-31-at-15.33.03.jpeg 1200w, https:\/\/www.quixada.ufc.br\/wp-content\/uploads\/2024\/10\/WhatsApp-Image-2024-10-31-at-15.33.03-240x300.jpeg 240w, https:\/\/www.quixada.ufc.br\/wp-content\/uploads\/2024\/10\/WhatsApp-Image-2024-10-31-at-15.33.03-819x1024.jpeg 819w, https:\/\/www.quixada.ufc.br\/wp-content\/uploads\/2024\/10\/WhatsApp-Image-2024-10-31-at-15.33.03-120x150.jpeg 120w, https:\/\/www.quixada.ufc.br\/wp-content\/uploads\/2024\/10\/WhatsApp-Image-2024-10-31-at-15.33.03-768x960.jpeg 768w\" sizes=\"(max-width: 813px) 100vw, 813px\" \/><\/p>\n<p>&nbsp;<\/p>\n<p>O atendimento ser\u00e1 realizado por ordem de chegada, n\u00e3o sendo necess\u00e1rio agendar com anteced\u00eancia. \u00c9 preciso estar com roupas folgadas, como short e camiseta, ou roupas que permitam acesso aos bra\u00e7os, coxa, regi\u00e3o abdominal sem necessitar a sua retirada.<\/p>\n<p><em>Fonte: Nutricionistas do Campus da UFC em Quixad\u00e1 | E-mail: <a href=\"mailto:nutricao@quixada.ufc.br\">nutricao@quixada.ufc.br<\/a><\/em><\/p>\n" + '</div>');
+
+    $.strRemove = function(theTarget, theString) {
+        return $("<div/>").append(
+            $(theTarget, theString).remove().end()
+        ).html();
+    };
+
+    var articleStr = sessionStorage.getItem('h5ab-print-article');
+    var removeArr = ['video','audio','script','iframe'];
+
+    $.each(removeArr, function(index, value){
+        var processedCode = $.strRemove(value, articleStr);
+        articleStr = processedCode;
+    });
+    
+    var fullPrintContent = articleStr;
+    sessionStorage.setItem('h5ab-print-article', fullPrintContent);
+    
+});
+ </script>
+</html>
