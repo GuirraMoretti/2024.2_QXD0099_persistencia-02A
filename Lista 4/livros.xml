@@ -1,1 +1,2 @@
-<livros><livro><id>
+<?xml version='1.0' encoding='utf-8'?>
+<livros><livro><id>0</id><titulo>string</titulo><autor>string</autor><ano>0</ano><genero>string</genero></livro></livros>

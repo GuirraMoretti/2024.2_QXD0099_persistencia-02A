@@ -1,0 +1,8 @@
+2024-11-26 21:33:28,892 - INFO - Arquivo JSON 'data.json' carregado com sucesso.
+2024-11-26 21:33:28,892 - INFO - Processando registro: {'id': 1, 'name': 'John', 'age': 30}
+2024-11-26 21:33:28,892 - INFO - Processando registro: {'id': 2, 'name': 'Alice', 'age': 25}
+2024-11-26 21:33:28,892 - WARNING - Erro no registro: Dado inválido: {'id': 3, 'name': 'Bob', 'age': None}
+2024-11-26 21:36:05,591 - INFO - Arquivo JSON 'data.json' carregado com sucesso.
+2024-11-26 21:36:05,591 - INFO - Processando registro: {'id': 1, 'name': 'John', 'age': 30}
+2024-11-26 21:36:05,591 - INFO - Processando registro: {'id': 2, 'name': 'Alice', 'age': 25}
+2024-11-26 21:36:05,591 - WARNING - Erro no registro: Dado inválido: {'id': 3, 'name': 'Bob', 'age': None}
