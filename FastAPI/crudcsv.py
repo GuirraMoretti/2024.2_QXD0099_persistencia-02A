@@ -88,4 +88,3 @@ def remover_produto2(id:int):
         raise HTTPException(status_code=404, detail="Produto não encontrado")
     escrever_dados_csv(produtos_filtrados)
     return {"message" : "Produto deletado"}
-     
